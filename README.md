@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá! 👋 Seja bem-vindo ao meu perfil
 
-<!--
-**marcosoliveira17989-hub/marcosoliveira17989-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Sobre mim
 
-Here are some ideas to get you started:
+Sou um desenvolvedor em formação, dedicado a aprender
+programação e desenvolver projetos práticos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou construindo minha base na área de tecnologia
+e buscando evoluir a cada novo projeto.
+
+## 🎯 Objetivos
+
+- Estudar testes de software, casos de teste e identificação de bugs.
+
+- Desenvolver conhecimentos em SQL e modelagem de bancos de dados.
+
+- Aprender ferramentas de testes e gerenciamento de defeitos.
+
+- Praticar testes manuais e documentação de resultados.
+
+- Desenvolver projetos práticos para construir um portfólio profissional
+
+## 🛠️ Tecnologias que estou estudando
+
+- HTML
+- CSS
+- SQl
+- GitHub
+
+## 📚 Atualmente estudando
+- SQl
+- Controle de versão com Git.
+- Organização e documentação de projetos.
+
+## 📫 Contato
+
+GitHub: https://github.com/marcosoliveira17989-hub
